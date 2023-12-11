@@ -1,1 +1,1 @@
-+ kubectl create namespace argocd
+
