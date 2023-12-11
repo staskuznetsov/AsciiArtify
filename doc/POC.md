@@ -1,1 +1,2 @@
-https://127.0.0.1:8080
+kubectl create namespace argocd
+kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
