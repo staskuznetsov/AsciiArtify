@@ -18,3 +18,7 @@
 ![Screenshot-19](https://github.com/staskuznetsov/AsciiArtify/assets/88095654/c9337f6b-1af2-40a6-a583-79b220178556)
 
 ![Screenshot-20](https://github.com/staskuznetsov/AsciiArtify/assets/88095654/c5983c4a-952a-4952-bf4d-9f99660c902e)
+
+![Screenshot-21](https://github.com/staskuznetsov/AsciiArtify/assets/88095654/bd9bcc7a-bb39-433a-baf2-3621bff44475)
+
+![Screenshot-22](https://github.com/staskuznetsov/AsciiArtify/assets/88095654/7ac33318-588b-463e-84b4-df335e5c26a7)
