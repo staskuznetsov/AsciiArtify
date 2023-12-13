@@ -15,5 +15,6 @@
 
 ![Screenshot-18](https://github.com/staskuznetsov/AsciiArtify/assets/88095654/0094dbd1-35f2-453d-bcc5-f7a0ab22ebee)
 
-
 ![Screenshot-19](https://github.com/staskuznetsov/AsciiArtify/assets/88095654/c9337f6b-1af2-40a6-a583-79b220178556)
+
+![Screenshot-20](https://github.com/staskuznetsov/AsciiArtify/assets/88095654/c5983c4a-952a-4952-bf4d-9f99660c902e)
